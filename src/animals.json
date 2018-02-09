@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "cheetah.jpg"
+    },
+    {
+      "id": 2,
+      "image": "elephant.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "fennec-fox.jpg"
+    },
+    {
+      "id": 4,
+      "image": "giraffee.jpeg" 
+    },
+    {
+      "id": 5,
+      "image": "hippo.jpg"
+    },
+    {
+      "id": 6,
+      "image": "hyena.jpg"
+    },
+    {
+      "id": 7,
+      "image": "leopard.jpg"
+    },
+    {
+      "id": 8,
+      "image": "lion.jpg"
+    },
+    {
+      "id": 9,
+      "image": "rhino.jpg"
+    },
+    {
+      "id": 10,
+      "image": "tiger.jpg"
+    },
+    {
+      "id": 11,
+      "image": "vulture.jpg"
+    },
+    {
+      "id": 12,
+      "image": "zebra.jpg"
+    }
+  ]
